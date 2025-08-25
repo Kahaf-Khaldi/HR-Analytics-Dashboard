@@ -29,7 +29,8 @@ This Power BI dashboard provides insights into **employee attrition trends**, en
 
 ## Dashboard Preview
 
-<img width="1141" height="709" alt="image" src="https://github.com/user-attachments/assets/a20a1212-7cd2-4704-8458-a896bcfe31a6" />
+
+<img width="1147" height="649" alt="image" src="https://github.com/user-attachments/assets/264cbe35-840e-41e0-a50c-fe4a314e640e" />
 
 
 ---
